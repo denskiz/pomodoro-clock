@@ -1,0 +1,27 @@
+*,
+html,
+body {
+  background-color: rgb(155, 155, 245);
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+h2 {
+  display: inline;
+}
+
+button {
+  margin: 10px;
+}
+
+.min {
+  display: inline;
+}
